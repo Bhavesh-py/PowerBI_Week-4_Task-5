@@ -17,10 +17,11 @@
 **Root view:**
 ![image](https://user-images.githubusercontent.com/54022245/150679520-9238bd06-2d2f-493a-b7e5-d40a58915b45.png)
 
-
 **SDE Manager view:**
 ![image](https://user-images.githubusercontent.com/54022245/150679535-19055d1b-51bb-486e-b81c-4d32c5f19d72.png)
 
 
 **Senior Manager view:**
 ![image](https://user-images.githubusercontent.com/54022245/150679560-207a3811-1a71-4e98-966a-1fa99f1b2a82.png)
+
+NOTE: The Bookmark can be seen under the name "dept/basic_pay" in the Bookmarks pane on the right.
