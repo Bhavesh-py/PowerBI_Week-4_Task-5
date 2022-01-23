@@ -10,3 +10,17 @@
 * To perform Row Level Security, department-wise roles have been created for SDE, Tester and Analyst and the Sr. Manager role can access all the departments except Leads.
 
 ### Parameters Screenshot:
+![image](https://user-images.githubusercontent.com/54022245/150679467-f743e2b8-2b58-41e4-8aa4-3defb73bc9ac.png)
+
+
+### Checking Row Level Security
+**Root view:**
+![image](https://user-images.githubusercontent.com/54022245/150679520-9238bd06-2d2f-493a-b7e5-d40a58915b45.png)
+
+
+**SDE Manager view:**
+![image](https://user-images.githubusercontent.com/54022245/150679535-19055d1b-51bb-486e-b81c-4d32c5f19d72.png)
+
+
+**Senior Manager view:**
+![image](https://user-images.githubusercontent.com/54022245/150679560-207a3811-1a71-4e98-966a-1fa99f1b2a82.png)
